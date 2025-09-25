@@ -1,43 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Heart Disease Prediction README</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px auto;
-            max-width: 800px;
-            padding: 0 20px;
-            color: #333;
-            background-color: #f6f8fa;
-        }
-        .container {
-            background-color: #fff;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2, h3 {
-            border-bottom: 2px solid #eaecef;
-            padding-bottom: 0.3em;
-            margin-top: 24px;
-        }
-        pre {
-            background-color: #f0f0f0;
-            padding: 16px;
-            border-radius: 6px;
-            overflow-x: auto;
-        }
-        code {
-            background-color: #e0e0e0;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-    </style>
-</head>
+
 <body>
     <div class="container">
         <h1>Heart Disease Prediction using ANN 🩺</h1>
